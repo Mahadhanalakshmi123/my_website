@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.bed35e41.css",
-    "main.js": "/Portfolio/static/js/main.294a5464.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/project3.jpg": "/Portfolio/static/media/project3.0ac129e6bbb27743bb5c.jpg",
-    "static/media/about.jpg": "/Portfolio/static/media/about.cd034b66260819f15950.jpg",
-    "static/media/project2.jpg": "/Portfolio/static/media/project2.cebe3167100594f8e6d1.jpg",
-    "static/media/Maha.jpg": "/Portfolio/static/media/Maha.81cb799878a4747270d5.jpg",
-    "static/media/project1.jpg": "/Portfolio/static/media/project1.be3aebbbc2242602d9c9.jpg",
-    "index.html": "/Portfolio/index.html",
-    "main.bed35e41.css.map": "/Portfolio/static/css/main.bed35e41.css.map",
-    "main.294a5464.js.map": "/Portfolio/static/js/main.294a5464.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/my_website/static/css/main.bed35e41.css",
+    "main.js": "/my_website/static/js/main.393ad53a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my_website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project3.jpg": "/my_website/static/media/project3.0ac129e6bbb27743bb5c.jpg",
+    "static/media/about.jpg": "/my_website/static/media/about.cd034b66260819f15950.jpg",
+    "static/media/project2.jpg": "/my_website/static/media/project2.cebe3167100594f8e6d1.jpg",
+    "static/media/Maha.jpg": "/my_website/static/media/Maha.81cb799878a4747270d5.jpg",
+    "static/media/project1.jpg": "/my_website/static/media/project1.be3aebbbc2242602d9c9.jpg",
+    "index.html": "/my_website/index.html",
+    "main.bed35e41.css.map": "/my_website/static/css/main.bed35e41.css.map",
+    "main.393ad53a.js.map": "/my_website/static/js/main.393ad53a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my_website/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bed35e41.css",
-    "static/js/main.294a5464.js"
+    "static/js/main.393ad53a.js"
   ]
 }
